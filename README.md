@@ -19,6 +19,10 @@ Users should be able to:
 
 ### Screenshot
 
+![Screenshot 2024-02-08 at 19-49-53 Frontend Mentor Four card feature section](https://github.com/ATosacik/Four-card-feature-section-master-frontend-mentor/assets/111382391/6ccc5bb1-8252-422c-b690-d57bf5b9d7f7)
+![Screenshot 2024-02-08 at 19-50-26 Frontend Mentor Four card feature section](https://github.com/ATosacik/Four-card-feature-section-master-frontend-mentor/assets/111382391/a9e7445c-920b-4e8c-a024-00debc6e5c42)
+![Screenshot 2024-02-08 at 19-50-40 Frontend Mentor Four card feature section](https://github.com/ATosacik/Four-card-feature-section-master-frontend-mentor/assets/111382391/49f4b803-92a7-4c99-befb-64cdcb5e7984)
+
 ## My process
 
 ### Built with
